@@ -4,7 +4,7 @@
 			<Part manufacturer="Bandit">
 				<descriptions>
 					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_bandit.body_bandit'" ></desc>
-					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__auto.fire__auto'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_auto.fire_auto'" ></desc>
 					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_bandit.reload_bandit'" ></desc>
 					<desc name="damage" value="10" ></desc>
 					<desc name="ammo" value="20" ></desc>
@@ -14,7 +14,7 @@
 			<Part manufacturer="Bandit">
 				<descriptions>
 					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_bandit_epic.body_bandit_epic'" ></desc>
-					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__auto.fire__auto'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_auto.fire_auto'" ></desc>
 					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_bandit.reload_bandit'" ></desc>
 					<desc name="damage" value="10" ></desc>
 					<desc name="ammo" value="30" ></desc>
@@ -24,7 +24,7 @@
 			<Part manufacturer="Vladof">
 				<descriptions>
 					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_vladof.body_vladof'" ></desc>
-					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__auto.fire__auto'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_auto.fire_auto'" ></desc>
 					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_vladof.reload_vladof'" ></desc>
 					<desc name="damage" value="10" ></desc>
 					<desc name="ammo" value="30" ></desc>
@@ -34,7 +34,7 @@
 			<Part manufacturer="Torgue">
 				<descriptions>
 					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_torgue.body_torgue'" ></desc>
-					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__revolver.fire__revolver'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_revolver.fire_revolver'" ></desc>
 					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_revolver_side.reload_revolver_side'" ></desc>
 					<desc name="damage" value="30" ></desc>
 					<desc name="ammo" value="6" ></desc>
@@ -45,7 +45,7 @@
 			<Part manufacturer="Hyperion">
 				<descriptions>
 					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_hyperion.body_hyperion'" ></desc>
-					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__auto.fire__auto'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_auto.fire_auto'" ></desc>
 					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_hyperion.reload_hyperion'" ></desc>
 					<desc name="damage" value="30" ></desc>
 					<desc name="ammo" value="6" ></desc>
@@ -55,7 +55,7 @@
 			<Part manufacturer="Jakobs">
 				<descriptions>
 					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_jakobs.body_jakobs'" ></desc>
-					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__revolver.fire__revolver'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_revolver.fire_revolver'" ></desc>
 					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_revolver_up.reload_revolver_up'" ></desc>
 					<desc name="damage" value="30" ></desc>
 					<desc name="ammo" value="6" ></desc>
@@ -65,7 +65,7 @@
 			<Part manufacturer="Maliwan">
 				<descriptions>
 					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_maliwan.body_maliwan'" ></desc>
-					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__revolver.fire__revolver'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_revolver.fire_revolver'" ></desc>
 					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_maliwan.reload_maliwan'" ></desc>
 					<desc name="damage" value="30" ></desc>
 					<desc name="ammo" value="6" ></desc>
