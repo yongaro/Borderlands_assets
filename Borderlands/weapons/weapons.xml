@@ -1,0 +1,74 @@
+<Root>
+	<WeaponType value="pistols">
+		
+		<category value="body">
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_bandit.body_bandit'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__auto.fire__auto'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_bandit.reload_bandit'" ></desc>
+					<desc name="damage" value="10" ></desc>
+					<desc name="ammo" value="20" ></desc>
+					<desc name="fireRate" value="10" ></desc>
+				</descriptions>
+			</Part>
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_bandit_epic.body_bandit_epic'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__auto.fire__auto'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_bandit.reload_bandit'" ></desc>
+					<desc name="damage" value="10" ></desc>
+					<desc name="ammo" value="30" ></desc>
+					<desc name="fireRate" value="10" ></desc>
+				</descriptions>
+			</Part>
+			<Part manufacturer="Torgue">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_torgue.body_torgue'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire__revolver.fire__revolver'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_revolver_side.reload_revolver_side'" ></desc>
+					<desc name="damage" value="30" ></desc>
+					<desc name="ammo" value="6" ></desc>
+					<desc name="fireRate" value="5" ></desc>
+					<desc name="element" value="1" ></desc>
+				</descriptions>
+			</Part>	
+		</category>
+		
+		<category value="canon">
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/canon_bandit.canon_bandit'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+		</category>
+
+		<category value="handle">
+			<Part manufacturer="Torgue">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/handle_torgue.handle_torgue'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+		</category>
+		
+		<category value="other">
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/bayonet1.bayonet1'" ></desc>
+					<desc name="fireRate" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/bayonet2.bayonet2'" ></desc>
+					<desc name="fireRate" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>				
+		</category>
+		
+	</WeaponType>
+</Root>
