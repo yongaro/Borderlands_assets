@@ -1,0 +1,206 @@
+<Root>
+	<WeaponType value="pistols">	
+		<category value="body">
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_bandit.body_bandit'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_auto.fire_auto'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_bandit.reload_bandit'" ></desc>
+					<desc name="FPreloadAnim" value="AnimSequence'/Game/Borderlands/characters/claptrap/FP/AnimSet/1st_Person_Pistol/Reload_BanditMade_Anim.Reload_BanditMade_Anim'" ></desc>
+					<desc name="damage" value="10" ></desc>
+					<desc name="ammo" value="20" ></desc>
+					<desc name="fireRate" value="10" ></desc>
+				</descriptions>
+			</Part>
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_bandit_epic.body_bandit_epic'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_auto.fire_auto'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_bandit.reload_bandit'" ></desc>
+					<desc name="FPreloadAnim" value="AnimSequence'/Game/Borderlands/characters/claptrap/FP/AnimSet/1st_Person_Pistol/Reload_BanditMade_Anim.Reload_BanditMade_Anim'" ></desc>
+					<desc name="damage" value="10" ></desc>
+					<desc name="ammo" value="30" ></desc>
+					<desc name="fireRate" value="10" ></desc>
+				</descriptions>
+			</Part>
+			<Part manufacturer="Vladof">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_vladof.body_vladof'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_auto.fire_auto'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_vladof.reload_vladof'" ></desc>
+					<desc name="FPreloadAnim" value="AnimSequence'/Game/Borderlands/characters/claptrap/FP/AnimSet/1st_Person_Pistol/Reload_Vladof_Anim.Reload_Vladof_Anim'" ></desc>
+					<desc name="damage" value="10" ></desc>
+					<desc name="ammo" value="30" ></desc>
+					<desc name="fireRate" value="10" ></desc>
+				</descriptions>
+			</Part>
+			<Part manufacturer="Torgue">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_torgue.body_torgue'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_revolver.fire_revolver'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_revolver_side.reload_revolver_side'" ></desc>
+					<desc name="FPreloadAnim" value="AnimSequence'/Game/Borderlands/characters/claptrap/FP/AnimSet/1st_Person_Pistol/Reload_Jakobs_Var2_Anim.Reload_Jakobs_Var2_Anim'" ></desc>
+					<desc name="damage" value="30" ></desc>
+					<desc name="ammo" value="6" ></desc>
+					<desc name="fireRate" value="5" ></desc>
+					<desc name="element" value="1" ></desc>
+				</descriptions>
+			</Part>	
+			<Part manufacturer="Hyperion">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_hyperion.body_hyperion'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_auto.fire_auto'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_hyperion.reload_hyperion'" ></desc>
+					<desc name="FPreloadAnim" value="AnimSequence'/Game/Borderlands/characters/claptrap/FP/AnimSet/1st_Person_Pistol/Reload_Hyperion_Anim.Reload_Hyperion_Anim'" ></desc>
+					<desc name="damage" value="30" ></desc>
+					<desc name="ammo" value="6" ></desc>
+					<desc name="fireRate" value="5" ></desc>
+				</descriptions>
+			</Part>
+			<Part manufacturer="Jakobs">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_jakobs.body_jakobs'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_revolver.fire_revolver'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_revolver_up.reload_revolver_up'" ></desc> 
+					<desc name="FPreloadAnim" value="AnimSequence'/Game/Borderlands/characters/claptrap/FP/AnimSet/1st_Person_Pistol/Reload_Jakobs_Anim.Reload_Jakobs_Anim'" ></desc>
+					<desc name="damage" value="30" ></desc>
+					<desc name="ammo" value="6" ></desc>
+					<desc name="fireRate" value="5" ></desc>
+				</descriptions>
+			</Part>	
+			<Part manufacturer="Maliwan">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/body_maliwan.body_maliwan'" ></desc>
+					<desc name="fireAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/fire_revolver.fire_revolver'" ></desc>
+					<desc name="reloadAnim" value="AnimSequence'/Game/Borderlands/weapons/pistols/AnimSet/reload_maliwan.reload_maliwan'" ></desc>
+					<desc name="FPreloadAnim" value="AnimSequence'/Game/Borderlands/characters/claptrap/FP/AnimSet/1st_Person_Pistol/Reload_Maliwan_Anim.Reload_Maliwan_Anim'" ></desc>
+					<desc name="damage" value="30" ></desc>
+					<desc name="ammo" value="6" ></desc>
+					<desc name="fireRate" value="5" ></desc>
+				</descriptions>
+			</Part>				
+		</category>
+		
+		<category value="canon">
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/canon_bandit.canon_bandit'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Jakobs">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/canon_jakobs.canon_jakobs'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Maliwan">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/canon_maliwan.canon_maliwan'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Tediore">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/canon_tediore.canon_tediore'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Torgue">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/canon_torgue.canon_torgue'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Vladof">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/canon_vladof.canon_vladof'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+		</category>
+
+		<category value="handle">
+			<Part manufacturer="Torgue">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/handle_torgue.handle_torgue'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Dhal">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/handle_dhal.handle_dhal'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Hyperion">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/handle_hyperion.handle_hyperion'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Jakobs">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/handle_jakobs.handle_jakobs'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Tediore">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/handle_tediore.handle_tediore'" ></desc>
+					<desc name="fireRate" value="+0.10" ></desc>
+					<desc name="damage" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+		</category>
+		
+		<category value="other">
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/bayonet1.bayonet1'" ></desc>
+					<desc name="fireRate" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Bandit">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/bayonet2.bayonet2'" ></desc>
+					<desc name="fireRate" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Dhal">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/crosse.crosse'" ></desc>
+					<desc name="fireRate" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Dhal">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/scope4.scope4'" ></desc>
+					<desc name="fireRate" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Maliwan">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/scope5.scope5'" ></desc>
+					<desc name="fireRate" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+			<Part manufacturer="Hyperion">
+				<descriptions>
+					<desc name="mesh" value="SkeletalMesh'/Game/Borderlands/weapons/pistols/scope6.scope6'" ></desc>
+					<desc name="fireRate" value="-0.10" ></desc>				
+				</descriptions>
+			</Part>
+		</category>
+	</WeaponType>
+</Root>
